@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/maria/source/repos/BPC-PC1T/multikino/multikino/out/build/x64-debug/CMakeFiles/multikino.dir/embed.manifest"
